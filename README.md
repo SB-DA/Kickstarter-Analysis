@@ -11,3 +11,6 @@ We need to provide a visualized feedback to Lousie with insights to help her gai
 By taking an initial look at the raw data we figured it had to be sorted and prepared for the analysis by creating a new column to show Percentage funded, Average Donation, Split the categories to show Parent and Subcategories and coverted the dates and also created a new column for year of Launched date.
 
 ![image](https://user-images.githubusercontent.com/78935551/109440416-343e0300-7a00-11eb-8834-06fccf978f05.png)
+
+Beow Image shows the Outcomes based on Parent Category.
+![image](https://user-images.githubusercontent.com/78935551/109441683-eb884900-7a03-11eb-81fe-4f40f7fe6813.png)
