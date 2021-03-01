@@ -14,8 +14,9 @@ By taking an initial look at the raw data we figured it had to be sorted and pre
 
 
 
-Below chart is based on the Outcomes of the Parent Category. This chart is cleary tells 
+Below chart is based on the Outcomes of the Parent Category. This chart cleary tells 
 
-![image](https://user-images.githubusercontent.com/78935551/109441764-2a1e0380-7a04-11eb-8b67-30170b24dcae.png)
+![image](https://user-images.githubusercontent.com/78935551/109452425-b2f56900-7a1d-11eb-903a-0be2498cec8d.png)
+
 
 
