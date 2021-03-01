@@ -51,7 +51,7 @@ Below Line chart helps us to understand that Goals less than $1000 was 76% succe
 #### Difficulties and Challenges Encountered 
  - Firstly, the dataset had to be sorted and organzied to start the basic analysis.
  - We had to further refine the searches using filters and updating the chart to view certain results.
- - Had to experiment with the pivot charts and faced some technical formula errors which I had to rectify and learn.
+ - Had to experiment with the Pivot table and Charts and faced some formula errors which I had to learn and rectify.
  
  
  #### Conclusions Drawn from the Outcomes based on Launch Date 
