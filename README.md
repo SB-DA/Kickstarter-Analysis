@@ -12,7 +12,9 @@ By taking an initial look at the raw data we figured it had to be sorted and pre
 
 ![image](https://user-images.githubusercontent.com/78935551/109440416-343e0300-7a00-11eb-8834-06fccf978f05.png)
 
-Beow Image shows the Outcomes based on Parent Category.
+
+Below Image shows the Outcomes based on Parent Category.
+
 ![image](https://user-images.githubusercontent.com/78935551/109441764-2a1e0380-7a04-11eb-8b67-30170b24dcae.png)
 
 
