@@ -24,6 +24,12 @@ By taking an initial look at the raw data we figured it had to be sorted and pre
 
 ![image](https://user-images.githubusercontent.com/78935551/109454698-c5be6c80-7a22-11eb-9bff-45a56f625b9a.png)
 
+- Below chart is based on the overall outcomes on Launched Dates. The month that launched the most successful Kickstarter camapigns was in May. However, January, June, July and October all had roughly the same number of failed campaigns launched.
+
+![image](https://user-images.githubusercontent.com/78935551/109546563-626f2180-7a98-11eb-958b-d32a1ff1c11e.png)
+
+
+
 
 
 
