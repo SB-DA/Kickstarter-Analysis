@@ -9,3 +9,11 @@ We need to provide a visualized feedback to Lousie with insights to help her gai
 
 ## Analysis and Challenges
 
+Percentage funded 	Average Donation 	Parent Category 	Sub Category	Date Created Conversion	Date ended conversion
+137	63.92	film & video	television	2015-06-22	2015-07-23
+143	185.48	film & video	television	2017-01-31	2017-03-02
+105	15	film & video	television	2016-02-05	2016-02-15
+104	69.27	film & video	television	2014-07-08	2014-08-07
+123	190.55	film & video	television	2015-11-19	2015-12-19
+110	93.4	film & video	television	2016-07-12	2016-07-29
+![image](https://user-images.githubusercontent.com/78935551/109440306-d7424d00-79ff-11eb-88bf-822240777fae.png)
