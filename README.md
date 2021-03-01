@@ -21,7 +21,8 @@ Below chart is based on the Outcomes of the Parent Category. This chart cleary t
 Below chart is based on the subcategory Outcomes. And it helps us to conculde that the subcategory "Plays" is the most successful of all. There were 412 successful Plays in US and 238 in GB. 
 
 
-![image](https://user-images.githubusercontent.com/78935551/109454631-a1fb2680-7a22-11eb-9b1a-9bf5c424dcdb.png)
+![image](https://user-images.githubusercontent.com/78935551/109454698-c5be6c80-7a22-11eb-9bff-45a56f625b9a.png)
+
 
 
 
