@@ -24,9 +24,29 @@ By taking an initial look at the raw data we figured it had to be sorted and pre
 
 ![image](https://user-images.githubusercontent.com/78935551/109454698-c5be6c80-7a22-11eb-9bff-45a56f625b9a.png)
 
-- Below chart is based on the overall outcomes on Launched Dates. The month that launched the most successful Kickstarter camapigns was in May. However, January, June, July and October all had roughly the same number of failed campaigns launched.
+- Below chart is based on the overall outcomes on Launched Dates. The month that launched the most successful Kickstarter campaigns was in May. However, January, June, July and October all had similar number of failed campaigns launched.
 
 ![image](https://user-images.githubusercontent.com/78935551/109546563-626f2180-7a98-11eb-958b-d32a1ff1c11e.png)
+
+To continue to help Louise plan her campaign, we will have to be more specific with the searches . Even though Plays under the Theater category was the most successful over a period of time. We might have to determine more details to make her upcoming Play Fever to be a successful campaign.
+
+
+
+## Kickstarter Challenge
+Louise’s play Fever came close to its fundraising goal in a short amount of time. We have to determine how different campaigns fared in relation to their launch dates and their funding goals by visualizing campaign outcomes based on their launch dates and their funding goals.
+
+### Theater Outcomes Based on Launch Date 
+By creating below line graph we can see a detailed trend. May and June had relatively high number of Successful theater campaigns and December had the least. So its good to say that the Play should be launched during May or June.
+
+
+![image](https://user-images.githubusercontent.com/78935551/109549088-78caac80-7a9b-11eb-9076-2d45d6839bef.png)
+
+
+
+
+
+
+
 
 
 
