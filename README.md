@@ -13,15 +13,22 @@ By taking an initial look at the raw data we figured it had to be sorted and pre
 ![image](https://user-images.githubusercontent.com/78935551/109440416-343e0300-7a00-11eb-8834-06fccf978f05.png)
 
 
-Below chart is based on the Outcomes of the Parent Category. This chart cleary tells Theater was the most successful overall. We further filtered it to see the United states and Great Britain campaigns . US had 525 successful theater kickstarters and GB had a total of 258 successful theater kickstarters.
+- Below chart is based on the Outcomes of the Parent Category. This chart cleary tells Theater was the most successful overall. We further filtered it to see the United states and Great Britain campaigns . US had 525 successful theater kickstarters and GB had a total of 258 successful theater kickstarters.
+
 
 ![image](https://user-images.githubusercontent.com/78935551/109452425-b2f56900-7a1d-11eb-903a-0be2498cec8d.png)
 
 
-Below chart is based on the Subcategory Outcomes. And it helps us to conculde that the subcategory "Plays" is the most successful of all. There were 412 successful Plays in US and 238 in GB. 
+- Below chart is based on the Subcategory Outcomes. And it helps us to conculde that the subcategory "Plays" is the most successful of all. There were 412 successful Plays in US and 238 in GB. 
 
 
 ![image](https://user-images.githubusercontent.com/78935551/109454698-c5be6c80-7a22-11eb-9bff-45a56f625b9a.png)
+
+
+
+
+
+
 
 
 
