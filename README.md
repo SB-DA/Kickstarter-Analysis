@@ -43,12 +43,33 @@ By creating below line graph we can see a detailed trend. May and June had relat
 
 
 ### Analysis of Outcomes Based on Goals
-This simple Line chart helps us to understand that Goals less than $1000 was almost 80% successful and most of the unsuccessful campaigns were around $45000 - $49999. We can also say that higher the Goal amount the more chances of it being unsuccessful.
+Below Line chart helps us to understand that Goals less than $1000 was 76% successful and most of the unsuccessful campaigns were around $45000 - $49999. Goals around $10000 - $14999 were 54% successful and 46% failed. 
 
 ![image](https://user-images.githubusercontent.com/78935551/109552473-d06b1700-7a9f-11eb-9852-c0f4b41545c4.png)
 
 
-### Difficulties and Challenges
+### Difficulties and Challenges Encountered 
+ - Firstly, the dataset had to be sorted and organzied to start the basic analysis.
+ - We had to further refine the searches using filters and updating the chart to view certain results.
+ - Had to experiment with the pivot charts and faced some technical formula errors which I had to rectify and learn.
+ 
+ 
+ ### Conclusions Drawn from the Outcomes based on Launch Date 
+ - Launching the campaign at a right time is important for it be successful.
+
+### Conclusions Drawn from the Outcomes based on Goals
+- 
+
+
+ 
+ 
+
+
+
+ 
+ 
+ 
+
 
 
 
