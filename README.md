@@ -35,11 +35,26 @@ To continue to help Louise plan her campaign, we will have to be more specific w
 ## Kickstarter Challenge
 Louise’s play Fever came close to its fundraising goal in a short amount of time. We have to determine how different campaigns fared in relation to their launch dates and their funding goals by visualizing campaign outcomes based on their launch dates and their funding goals.
 
-### Theater Outcomes Based on Launch Date 
+### Analysis of Outcomes Based on Launch Date - Theater
 By creating below line graph we can see a detailed trend. May and June had relatively high number of Successful theater campaigns and December had the least. So its good to say that the Play should be launched during May or June.
 
 
 ![image](https://user-images.githubusercontent.com/78935551/109549088-78caac80-7a9b-11eb-9076-2d45d6839bef.png)
+
+
+### Analysis of Outcomes Based on Goals
+This simple Line chart helps us to understand that Goals less than $1000 was almost 80% successful and most of the unsuccessful campaigns were around $45000 - $49999. We can also say that higher the Goal amount the more chances of it being unsuccessful.
+
+![image](https://user-images.githubusercontent.com/78935551/109552473-d06b1700-7a9f-11eb-9852-c0f4b41545c4.png)
+
+
+### Difficulties and Challenges
+
+
+
+
+
+
 
 
 
