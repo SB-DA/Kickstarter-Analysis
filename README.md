@@ -8,7 +8,7 @@ Louise is an upcoming play writer who wants to start a crowdfunding campaign to 
 We need to provide a visualized feedback to Louise with insights to help her gain a better understanding of the campaign from start to finish so that she will be able to set her campaign to mirror other successful one's in the same category.
 
 ## Analysis and Challenges 
-By taking an initial look at the raw data we figured it had to be sorted and prepared for the analysis by creating a new column to show Percentage funded, Average Donation, split categories and subcategories,coverted dates and also creating a new column for year of Launched date.
+By taking an initial look at the raw data we figured it had to be sorted and prepared for the analysis by creating a new column to show Percentage funded, Average Donation, split categories and subcategories,covert dates and also creating a new column for year of Launched date.
 
 ![image](https://user-images.githubusercontent.com/78935551/109440416-343e0300-7a00-11eb-8834-06fccf978f05.png)
 
@@ -50,8 +50,8 @@ Below Line chart helps us to understand that Goals less than $1000 was 76% succe
 
 #### Difficulties and Challenges Encountered 
  - Firstly, the dataset had to be sorted and organzied to start the basic analysis.
- - We had to further refine the searches using filters and updating the chart to view certain results.
- - Had to experiment with the Pivot table and Charts and faced some formula errors which I had to learn and rectify.
+ - Had to further refine the searches using filters and updating the chart to view certain results.
+ - Experimented with the Pivot table and Charts and faced some formula errors which I had to learn and rectify.
  
  
  #### Conclusions Drawn from the Outcomes based on Launch Date 
