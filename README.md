@@ -61,6 +61,7 @@ Below Line chart helps us to understand that Goals less than $1000 was 76% succe
  
 #### Conclusions Drawn from the Outcomes based on Goals
 - As per the data gathered we can conclude that Louise's goal had a 54% chance of it being successful.
+- Having a considerable high goal can also effect the campaign.
 
 
 #### Limitations of Dataset
